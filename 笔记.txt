@@ -1,0 +1,2 @@
+0、准备文件夹被移动到百度云盘
+1、powershell运行a.exe程序:& a.exe
